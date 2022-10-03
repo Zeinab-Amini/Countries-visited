@@ -1,3 +1,7 @@
+In this project there is a list dictonary's in them. 
+After the list, instead of adding on to the main list, I added a different dictonary to the list and printed it. 
+
+
 ## Dictionary in List
 
 # UPDATE
